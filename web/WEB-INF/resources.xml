@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <Resource id="lt.vu.mif" type="javax.sql.DataSource">#Tue Mar 08 04:21:46 CST 2016
+jdbcDriver=org.apache.derby.jdbc.ClientDriver
+password=paul
+userName=paul
+jdbcUrl=jdbc\:derby\://localhost\:1527/RestoranDB
+</Resource>
+  <Resource id="RestoranDataSource" type="javax.sql.DataSource">#Tue Mar 08 04:22:22 CST 2016
+jdbcDriver=org.apache.derby.jdbc.ClientDriver
+password=paul
+userName=paul
+jdbcUrl=jdbc\:derby\://localhost\:1527/RestoranDB
+</Resource>
+</resources>
